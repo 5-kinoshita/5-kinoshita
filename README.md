@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=5-kinoshita" />
+</div>
+
 ## 🌱 Skills
 <div> 
   <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,java,php,python,django" />
