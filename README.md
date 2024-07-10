@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=5-kinoshita" />
+</div>
+
 ## Hi there 👋
 
 <!--
@@ -15,9 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=5-kinoshita" />
-</div>
 
 ## 🌱 Skills
 <div> 
